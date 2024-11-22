@@ -1,0 +1,7 @@
+C:\Users\gecsel\Gitwork\SoccerTeam\bin\Debug\SoccerTeam.exe.config
+C:\Users\gecsel\Gitwork\SoccerTeam\bin\Debug\SoccerTeam.exe
+C:\Users\gecsel\Gitwork\SoccerTeam\bin\Debug\SoccerTeam.pdb
+C:\Users\gecsel\Gitwork\SoccerTeam\obj\Debug\SoccerTeam.csproj.AssemblyReference.cache
+C:\Users\gecsel\Gitwork\SoccerTeam\obj\Debug\SoccerTeam.csproj.CoreCompileInputs.cache
+C:\Users\gecsel\Gitwork\SoccerTeam\obj\Debug\SoccerTeam.exe
+C:\Users\gecsel\Gitwork\SoccerTeam\obj\Debug\SoccerTeam.pdb
