@@ -22,7 +22,7 @@ namespace SoccerTeam
         public Connect()
         {
             Host = "localhost";
-            Database = "soccerteam";
+            Database = "football";
             User = "root";
             Password = "";
 
